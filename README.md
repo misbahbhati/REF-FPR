@@ -1,5 +1,6 @@
 Apple Stock Price Prediction
-Overview
+
+Overview:
 
 This project analyzes historical Apple (AAPL) stock data and builds predictive models to forecast future closing prices. The models used include ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and LSTM (Long Short-Term Memory) neural networks. The data is fetched from Yahoo Finance using the yfinance library, covering the period from January 1, 2010, to January 1, 2024.
 
