@@ -50,4 +50,5 @@ Limitations
 Stock prices are influenced by external factors (e.g., market news, economic events) not captured in historical data alone.
 Models assume stationarity; real-world data may require additional transformations.
 
-Clone repository
+Clone repository :https://github.com/misbahbhati/REF-FPR/blob/main/Final_FYP%20(3).ipynb
+
