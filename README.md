@@ -41,7 +41,9 @@ Evaluation metrics (e.g., MSE, RMSE) for model performance.
 Results
 
 ARIMA/SARIMA: Suitable for stationary time series; SARIMA handles seasonality better.
+
 LSTM: Captures long-term dependencies in non-linear data, often outperforming traditional models on financial time series.
+
 Example Plot: The notebook generates a comparison plot of ARIMA vs. SARIMA predictions against actual test data.
 
 For detailed results, refer to the notebook outputs. Predictions are visualized in matplotlib figures.
@@ -49,6 +51,7 @@ For detailed results, refer to the notebook outputs. Predictions are visualized 
 Limitations
 
 Stock prices are influenced by external factors (e.g., market news, economic events) not captured in historical data alone.
+
 Models assume stationarity; real-world data may require additional transformations.
 
 Clone repository :https://github.com/misbahbhati/REF-FPR/blob/main/Final_FYP%20(3).ipynb
